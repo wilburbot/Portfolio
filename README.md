@@ -24,4 +24,4 @@ Pass and Set are confused because of near-identical body positions from one came
 
 Tools: Python, JavaScript, Roboflow, REST APIs
 
-Demo uses sample data. Real match footage and player data are not included.
+Demo uses sample data. 
